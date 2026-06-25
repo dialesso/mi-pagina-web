@@ -1,0 +1,6 @@
+{
+  "name": "Port Link",
+  "description": "Plataforma digital SaaS B2B para la reutilización de contenedores vacíos (Street Turn) en el sector portuario y logístico del Perú.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
